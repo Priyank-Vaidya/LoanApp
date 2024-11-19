@@ -1,0 +1,5 @@
+/server/node_modules
+/server/.env
+
+/newclient/banking-app/node_modules
+
